@@ -22,8 +22,6 @@
   </url><url>
     <loc>http://localhost:1313/governance/constitution/</loc>
   </url><url>
-    <loc>http://localhost:1313/approach/constraints/</loc>
-  </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/current-governing-version/</loc>
@@ -33,8 +31,6 @@
     <loc>http://localhost:1313/derivative-entities/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/derivative-entity-charter-template/</loc>
-  </url><url>
-    <loc>http://localhost:1313/approach/design-principles/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
   </url><url>
@@ -75,8 +71,6 @@
     <loc>http://localhost:1313/docs/position-papers/</loc>
   </url><url>
     <loc>http://localhost:1313/privacy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/approach/problem-class/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/problem-classes/</loc>
   </url><url>

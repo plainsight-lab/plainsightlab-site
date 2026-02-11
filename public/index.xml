@@ -57,13 +57,6 @@
       <description></description>
     </item>
     <item>
-      <title>Constraints</title>
-      <link>http://localhost:1313/approach/constraints/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/approach/constraints/</guid>
-      <description>&lt;h2 id=&#34;constraints&#34;&gt;Constraints&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Current governing version</title>
       <link>http://localhost:1313/docs/current-governing-version/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,13 +76,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/derivative-entity-charter-template/</guid>
       <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;&#xA;&lt;p&gt;Governing charter template.&lt;br&gt;&#xA;Not marketing.&lt;/p&gt;&#xA;&lt;p&gt;This document defines the authority boundaries, obligations, and constraints of a derivative entity operating under the stewardship of PlainSight Lab.&lt;/p&gt;&#xA;&lt;p&gt;This document is binding upon adoption.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;article-i--entity-definition&#34;&gt;Article I — Entity Definition&lt;/h2&gt;&#xA;&lt;p&gt;This charter governs the derivative entity identified as:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Entity Name:&lt;/strong&gt; &lt;em&gt;[To be specified]&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Entity Type:&lt;/strong&gt; Product / Implementation&lt;br&gt;&#xA;&lt;strong&gt;Stewarding Authority:&lt;/strong&gt; PlainSight Lab&lt;br&gt;&#xA;&lt;strong&gt;Canonical Standards Source:&lt;/strong&gt; Invariant.org&lt;/p&gt;&#xA;&lt;p&gt;This entity exists to implement, operationalize, or otherwise apply canonical specifications and governance frameworks stewarded by PlainSight Lab and published via Invariant.org.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Design Principles</title>
-      <link>http://localhost:1313/approach/design-principles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/approach/design-principles/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;aside class=&#34;callout callout--note&#34;&gt;&#xA;    &lt;div class=&#34;callout__title&#34;&gt;Section A&lt;/div&gt;&#xA;    &lt;div class=&#34;callout__body&#34;&gt;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;section-b&#34;&gt;Section B&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;aside class=&#34;callout callout--info callout--wide&#34;&gt;&#xA;    &lt;div class=&#34;callout__title&#34;&gt;Section C&lt;/div&gt;&#xA;    &lt;div class=&#34;callout__body&#34;&gt;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;section-d&#34;&gt;Section D&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;aside class=&#34;callout callout--danger callout--bleed&#34;&gt;&#xA;  &lt;div class=&#34;callout__inner&#34;&gt;&#xA;    &lt;div class=&#34;callout__title&#34;&gt;Section E&lt;/div&gt;&#xA;    &lt;div class=&#34;callout__body&#34;&gt;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Effective date</title>
@@ -195,13 +181,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Problem Class</title>
-      <link>http://localhost:1313/approach/problem-class/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/approach/problem-class/</guid>
-      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Problem Classes</title>

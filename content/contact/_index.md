@@ -4,7 +4,6 @@ description = "Institutional correspondence and security disclosures."
 draft = false
 +++
 
-# Contact
 
 PlainSight Lab maintains a single correspondence surface.
 
