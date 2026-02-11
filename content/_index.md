@@ -8,23 +8,27 @@ draft = false
 
 ## Trust through Transparency.
 
-PlainSight Lab designs governance-first systems for adversarial, AI-amplified environments.
-
-Correction cost must remain lower than propagation cost before scale.
+> **Governance-first systems for adversarial, AI-amplified environments.**
+>
+> Correction cost must remain lower than propagation cost before scale.
 
 [View Canonical Documents →](/docs/)
 
 ---
 
-## Adversarial Systems Are the Default
+---
 
-Errors now propagate at machine speed.
+{{< section bleed="true" variant="dark" >}}
 
-Automation compresses reaction time.  
-Ambiguity is exploited.  
+### Adversarial Systems Are the Default
+
+Errors propagate at machine speed.
+Ambiguity is exploited.
 Correction becomes expensive once execution occurs.
 
-Systems must be constrained before they are scaled.
+Design must assume exploitation before deployment.
+
+{{< /section >}}
 
 ---
 

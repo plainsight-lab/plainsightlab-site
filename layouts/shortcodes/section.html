@@ -1,0 +1,15 @@
+{{- /* Section Shortcode - Creates bleed/wide sections with optional variants */ -}}
+
+{{- $bleed := eq (lower (default "false" (.Get "bleed"))) "true" -}}
+{{- $wide := and (eq (lower (default "false" (.Get "wide"))) "true") (not $bleed) -}}
+{{- $variant := .Get "variant" -}}
+
+<section class="content-section{{ if $wide }} content-section--wide{{ end }}{{ if $bleed }} content-section--bleed{{ end }}{{ if $variant }} content-section--{{ $variant }}{{ end }}">
+  {{- if $bleed }}
+  <div class="content-section__inner">
+  {{- end }}
+    {{- .Inner | markdownify -}}
+  {{- if $bleed }}
+  </div>
+  {{- end }}
+</section>
