@@ -19,11 +19,3 @@ If you are looking for canonical governing documents, start in **Docs**:
 
 This section contains the governance *mechanics* that sit downstream of those documents.
 {{< /callout >}}
-
-## What This Section Contains
-
-- **Authority Model** — who is authorized to decide, and what authority exists.
-- **Stewards** — the individuals currently holding steward roles.
-- **Decision Records** — a durable log of governance decisions and bindings.
-- **Amendments** — how core documents can be changed and under what thresholds.
-- **Constitution** — view layer to the canonical constitution in Docs.
