@@ -12,7 +12,7 @@
 
   /* Home page content - Prose styling without width constraint on wrapper */
   .page__content--home {
-    font-size: var(--text-md);
+    /* No max-width here - let children control their own width */
   }
 
   /* Regular content blocks get prose width */
