@@ -16,8 +16,6 @@ draft = false
 
 ---
 
----
-
 {{< section bleed="true" variant="dark" >}}
 
 ### Adversarial Systems Are the Default
@@ -31,24 +29,34 @@ Design must assume exploitation before deployment.
 {{< /section >}}
 
 ---
+## Institutional Discipline
 
-## Institutional Posture
 
-PlainSight Lab operates at the substrate layer of high-risk systems.
+> **Canonical Truth**
+>
+> Specifications are singular, explicit, and publicly accessible.
+>
+> Plurality of implementation is permitted. Plurality of truth is not.
 
-It does not optimize for growth.  
-It does not defer governance.  
-It does not centralize without declaring it.
 
-It defines invariants.  
-It binds authority.  
-It implements under constraint.
+> **Governance Before Scale**
+>
+> Authority is bound before expansion.
+>
+> Amendment is procedural, not discretionary.
 
-Correct systems outlive their creators.
+
+
+> **Constraint as Enforcement**
+>
+> Refusal is structural
+>
+> Scale without constraint increases fragility.
 
 ---
 
 ## Governance Before Acceleration
+
 
 Authority is defined before implementation expands.
 
@@ -60,19 +68,4 @@ Scale without constraint increases institutional fragility.
 
 ---
 
-## Canonical Surface
-
-All binding documents are publicly accessible.
-
-- Systems Thesis  
-- Internal Constitution  
-- Governance Framework  
-- Authority Model  
-- Security & Disclosure  
-
-[Explore Governance →](/governance/)
-
----
-
-PlainSight Lab © 2026  
-Trust through Transparency
+{{< authority-surface >}}

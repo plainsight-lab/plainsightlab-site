@@ -4,6 +4,11 @@ title = "PlainSight Lab"
 theme = "hugo-theme-aperture"
 uglyURLs = false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [taxonomies]
   tag = "tags"
 

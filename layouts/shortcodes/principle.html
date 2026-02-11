@@ -1,0 +1,14 @@
+{{- /* Principle Shortcode - Accent-bordered statement block */ -}}
+
+{{- $title := .Get "title" -}}
+{{- $accent := default "steel" (.Get "accent") -}}
+{{- $content := .Inner | strings.TrimSpace -}}
+
+<div class="principle principle--{{ $accent }}">
+  {{- if $title -}}
+  <h3 class="principle__title">{{ $title }}</h3>
+  {{- end -}}
+  <div class="principle__content">
+    {{- $content | markdownify -}}
+  </div>
+</div>

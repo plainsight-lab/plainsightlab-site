@@ -1,0 +1,30 @@
+{{- /* Authority Surface Section - Canonical Documents + Operating Interfaces */ -}}
+
+<section class="authority-surface home-authority-surface">
+  <h2>Authority Surface</h2>
+  <p>All binding documents are publicly accessible.</p>
+
+  <div class="authority-grid">
+    {{- /* Column A: Canonical Documents */ -}}
+    <div class="authority-column">
+      <h3>Canonical Documents</h3>
+      <div class="authority-cards">
+        {{- partial "components/doc-card.html" (dict "section" "docs" "title" "Systems Thesis" "slug" "systems-thesis") -}}
+        {{- partial "components/doc-card.html" (dict "section" "docs" "title" "Internal Constitution" "slug" "internal-constitution") -}}
+        {{- partial "components/doc-card.html" (dict "section" "docs" "title" "Governance Framework" "slug" "governance-framework") -}}
+        {{- partial "components/doc-card.html" (dict "section" "docs" "title" "Problem Classes" "slug" "problem-classes") -}}
+      </div>
+    </div>
+
+    {{- /* Column B: Operating Interfaces */ -}}
+    <div class="authority-column">
+      <h3>Operating Interfaces</h3>
+      <div class="authority-cards">
+        {{- partial "components/interface-card.html" (dict "title" "Governance" "url" "/governance/") -}}
+        {{- partial "components/interface-card.html" (dict "title" "Responsible Disclosure" "url" "/docs/responsible-disclosure-policy/") -}}
+        {{- partial "components/interface-card.html" (dict "title" "Security Posture" "url" "/docs/security-posture/") -}}
+        {{- partial "components/interface-card.html" (dict "title" "Contact" "url" "/contact/") -}}
+      </div>
+    </div>
+  </div>
+</section>

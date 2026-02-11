@@ -39,6 +39,14 @@
     margin-top: var(--space-sm);
   }
 
+  /* Horizontal rule styling (removed .prose wrapper, need explicit styling) */
+  .page__content--home > hr {
+    border: none;
+    border-top: var(--border-sm) solid var(--color-border);
+    margin: var(--space-lg) 0;
+    margin-left: 0;
+  }
+
   /* Content Section - Bleed & Wide variants */
   .content-section--wide {
     position: relative;
@@ -62,8 +70,8 @@
 
   /* Account for container padding pushing bleed sections */
   .container .content-section--bleed {
-    margin-left: calc(-50vw + var(--page-gutter));
-    margin-right: calc(-50vw + var(--page-gutter));
+    margin-left: calc(-50vw - var(--page-gutter));
+    margin-right: calc(-50vw - var(--page-gutter));
   }
 
   .content-section__inner {
@@ -80,6 +88,8 @@
 
   .content-section--frost {
     background: var(--color-surface-alt);
+    padding: var(--space-xl) 0;
+    margin: var(--space-lg) 0;
   }
 
   /* Card Status Indicator Pattern */
@@ -141,6 +151,225 @@
     color: var(--color-fg);
   }
 
+  /* Principle Block - Accent-bordered statement */
+  .principle {
+    padding: var(--space-md) var(--space-md) var(--space-md) var(--space-lg);
+    margin: var(--space-md) 0;
+    /*border-left: 4px solid var(--color-accent);*/
+    background: transparent;
+  }
+
+  .principle--steel {
+    border-left-color: var(--theme-steel-blue);
+  }
+
+  .principle--crimson {
+    border-left-color: var(--theme-crimson);
+  }
+
+  /* On default background, add subtle background */
+  .page__content--home > .principle {
+    background: var(--color-surface-alt);
+  }
+
+  /* Inside frost sections, keep transparent */
+  .content-section--frost .principle {
+    background: transparent;
+  }
+
+  .principle__title {
+    margin-top: 0;
+    margin-bottom: var(--space-sm);
+    font-size: var(--text-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-fg);
+  }
+
+  .principle__content {
+    color: var(--color-fg);
+  }
+
+  .principle__content p {
+    margin: 0;
+  }
+
+  .principle__content p + p {
+    margin-top: var(--space-sm);
+  }
+
+  /* Authority Surface Section */
+  .authority-surface {
+    margin: var(--space-2xl) 0;
+  }
+
+  .authority-surface h2 {
+    margin-bottom: var(--space-sm);
+  }
+
+  .authority-surface > p {
+    margin-bottom: var(--space-xl);
+    font-size: var(--text-lg);
+  }
+
+  .authority-grid {
+    display: grid;
+    gap: var(--space-2xl);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: var(--space-lg);
+    align-items: stretch;
+  }
+
+  @media (max-width: 768px) {
+    .authority-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .authority-grid h3 {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-md);
+  }
+
+  /* Make columns stretch and use flexbox */
+  .authority-column {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .authority-cards {
+    display: grid;
+    gap: var(--space-md);
+    grid-auto-rows: 1fr;
+    align-items: stretch;
+    flex: 1;
+  }
+
+  /* Make cards within authority-cards stretch to uniform height */
+  .home-authority-surface .authority-cards .card,
+  .home-authority-surface .authority-cards .interface-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Push card meta to bottom */
+  .home-authority-surface .card__meta {
+    margin-top: auto;
+  }
+
+  /* Interface Card - Styled like unpublished doc cards */
+  .interface-card {
+    position: relative;
+    display: block;
+    padding: var(--space-md);
+    border: var(--border-sm) solid var(--color-border);
+    border-radius: var(--radius-sm);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-sm);
+    text-decoration: none;
+    color: var(--color-fg);
+    transition: all 0.2s ease;
+  }
+
+  /* Status indicator border (like unpublished doc cards) */
+  .interface-card::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--color-muted);
+  }
+
+  .interface-card:hover,
+  .interface-card:focus-visible {
+    border-color: var(--color-accent);
+    background: var(--color-surface-alt);
+    text-decoration: none;
+  }
+
+  .interface-card__title {
+    font-size: var(--text-lg);
+    font-weight: var(--font-weight-semibold);
+    margin: 0 0 var(--space-xs) 0;
+  }
+
+  /* Footer CTA - Integrated into footer */
+  .footer-cta {
+    padding: var(--space-3xl) 0 var(--space-2xl);
+    border-bottom: var(--border-sm) solid rgba(232, 230, 225, 0.1);
+    margin-bottom: var(--space-2xl);
+  }
+
+  .footer-cta__heading {
+    font-size: var(--text-2xl);
+    font-weight: var(--font-weight-bold);
+    margin-bottom: var(--space-md);
+    color: var(--color-bg);
+    text-align: left;
+  }
+
+  .footer-cta__body {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-xl);
+    max-width: 650px;
+    color: var(--color-bg);
+    text-align: left;
+  }
+
+  .footer-cta__body p {
+    margin: 0 0 var(--space-lg) 0;
+    line-height: var(--line-normal);
+  }
+
+  .footer-cta__body p:last-child {
+    margin-bottom: 0;
+  }
+
+  .footer-cta__actions {
+    display: flex;
+    gap: var(--space-md);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .cta-button {
+    display: inline-block;
+    padding: var(--space-md) var(--space-xl);
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    font-weight: var(--font-weight-semibold);
+    transition: all 0.2s ease;
+  }
+
+  .cta-button--primary {
+    background: var(--color-accent);
+    color: var(--color-bg);
+    border: var(--border-sm) solid var(--color-accent);
+  }
+
+  .cta-button--primary:hover,
+  .cta-button--primary:focus-visible {
+    background: var(--theme-steel-blue);
+    border-color: var(--theme-steel-blue);
+    text-decoration: none;
+  }
+
+  .cta-button--secondary {
+    background: transparent;
+    color: var(--color-bg);
+    border: var(--border-sm) solid var(--color-bg);
+  }
+
+  .cta-button--secondary:hover,
+  .cta-button--secondary:focus-visible {
+    background: var(--color-bg);
+    color: var(--color-fg);
+    text-decoration: none;
+  }
+
   /* Governance Section */
   .governance-registry {
     border-top: var(--border-sm) solid var(--color-border);
@@ -181,15 +410,15 @@
   }
 
   /* Document Cards - Status Indicators */
-  .page-docs .doc-card::before {
+  .doc-card::before {
     background: var(--color-muted);
   }
 
-  .page-docs .doc-card--published::before {
+  .doc-card--published::before {
     background: var(--color-danger);
   }
 
-  .page-docs .doc-card--unpublished::before {
+  .doc-card--unpublished::before {
     background: var(--color-muted);
   }
 

@@ -1,5 +1,23 @@
 <footer class="site-footer">
   <div class="container">
+    {{- if .IsHome }}
+    <section class="footer-cta">
+      <h2 class="footer-cta__heading">Truth must be explicit. Authority must be bound. Scale must wait.</h2>
+      <div class="footer-cta__body">
+        <p>E<sub>correction</sub> &lt; E<sub>propagation</sub><br>
+        Constraint precedes acceleration.<br>
+        Authority binds before expansion.</p>
+
+        <p><strong>Trust through transparency.</strong><br>
+        Systems whose constraints, authority, and invariants hold under the hardest conditions.</p>
+      </div>
+      <div class="footer-cta__actions">
+        <a href="/docs/" class="cta-button cta-button--primary">View Canonical Documents →</a>
+        <a href="/contact/" class="cta-button cta-button--secondary">Contact →</a>
+      </div>
+    </section>
+    {{- end }}
+
     <div class="footer__grid">
       <section class="footer__col" aria-label="Organization">
         <div class="footer__title">Org</div>
