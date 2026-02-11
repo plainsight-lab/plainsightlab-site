@@ -9,7 +9,7 @@ uglyURLs = false
 
 [params]
   description = "TBD."
-  customCSS = ["css/overrides.css"]
+  customCSS = ["css/tokens.css", "css/layout.css", "css/components.css"]
   [params.footer]
     [[params.footer.org]]
       name = "PlainSight Lab"

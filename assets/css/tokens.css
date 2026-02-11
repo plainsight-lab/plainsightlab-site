@@ -1,0 +1,93 @@
+/* PlainSight Lab Brand Tokens
+ *
+ * This file defines brand-specific design tokens that override the theme's defaults.
+ * Based on: Public_Brand_Guide.md
+ *
+ * These tokens are injected into the theme's @layer tokens to ensure proper cascade.
+ */
+
+@layer tokens {
+  :root {
+    /* Brand Colors - Primary */
+    --theme-charcoal: #1a1a1a;
+    --theme-offwhite: #e8e6e1;
+    --theme-slate: #4a5568;
+
+    /* Brand Colors - Accent */
+    --theme-steel-blue: #2c5f7e;
+    --theme-crimson: #8b1e1e;
+    --theme-frost: #c1d5e0;
+
+    /* Semantic Color Overrides */
+    --color-bg: var(--theme-offwhite);
+    --color-fg: var(--theme-charcoal);
+    --color-muted: var(--theme-slate);
+    --color-border: var(--theme-slate);
+    --color-accent: var(--theme-steel-blue);
+    --color-accent-contrast: var(--theme-offwhite);
+    --color-surface: var(--theme-offwhite);
+    --color-surface-alt: var(--theme-frost);
+    --color-code-bg: var(--theme-charcoal);
+    --color-code-fg: var(--theme-offwhite);
+    --color-link: var(--color-accent);
+    --color-link-visited: var(--theme-steel-blue);
+    --color-link-hover: var(--color-accent);
+
+    /* Semantic Colors - Notice/Warning/Danger */
+    --color-notice: var(--theme-steel-blue);
+    --color-notice-bg: var(--theme-frost);
+    --color-warning: var(--theme-crimson);
+    --color-danger: var(--theme-crimson);
+
+    /* Typography - Brand Fonts */
+    --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+    /* Typography - Weights (Brand Guide) */
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+
+    /* Typography - Scale (Brand Guide) */
+    --text-xs: 0.75rem;      /* 12px - Caption */
+    --text-sm: 0.875rem;     /* 14px - Small */
+    --text-md: 1rem;         /* 16px - Body */
+    --text-lg: 1.25rem;      /* 20px - H4 */
+    --text-xl: 1.5rem;       /* 24px - H3 */
+    --text-2xl: 2rem;        /* 32px - H2 */
+    --text-3xl: 2.5rem;      /* 40px - H1 */
+    --text-hero: 3.5rem;     /* 56px - Hero */
+
+    /* Line Heights (Brand Guide) */
+    --line-tight: 1.2;       /* Headers */
+    --line-normal: 1.6;      /* Body */
+    --line-code: 1.5;        /* Code */
+
+    /* Spacing Scale (Brand Guide) */
+    --space-2xs: 4px;
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 32px;
+    --space-2xl: 48px;
+    --space-3xl: 64px;
+
+    /* Border & Radius */
+    --radius-sm: 4px;
+    --radius-md: 4px;
+    --shadow-sm: 0 1px 0 rgba(26, 26, 26, 0.12);
+
+    /* Layout Constraints (Brand Guide) */
+    --container-max: 1264px;
+    --container: min(var(--container-max), 92vw);
+    --page-gutter: var(--space-xl);
+
+    /* Callout Tokens - Brand Variants */
+    --callout-bg: var(--color-bg);
+    --callout-fg: var(--color-fg);
+    --callout-border: var(--color-border);
+    --callout-title-fg: var(--color-fg);
+  }
+}
