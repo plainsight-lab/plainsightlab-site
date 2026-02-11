@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About PlainSight Lab on PlainSight Lab</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About PlainSight Lab on PlainSight Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/about/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/history/</guid>
+      <description>&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Legitimacy</title>
+      <link>http://localhost:1313/about/legitimacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/legitimacy/</guid>
+      <description>&lt;h2 id=&#34;basis&#34;&gt;Basis&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Mission</title>
+      <link>http://localhost:1313/about/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/mission/</guid>
+      <description>&lt;aside class=&#34;callout callout--note&#34;&gt;&#xA;  &lt;div class=&#34;callout__inner&#34;&gt;&#xA;    &#xA;    &lt;div class=&#34;callout__body&#34;&gt;&#xA;      &lt;p&gt;This document does not describe a hypothetical stress case.&lt;/p&gt;&#xA;&lt;p&gt;PlainSight Lab works in domains where failure is already occurring, correction is already too costly, and abstraction itself becomes a form of moral evasion.&lt;/p&gt;&#xA;&lt;p&gt;Child trafficking is not treated as an extreme example.&#xA;It is treated as a real, ongoing system failure that existing technical, institutional, and governance models have proven unable to contain.&lt;/p&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mission&#34;&gt;Mission&lt;/h2&gt;&#xA;&lt;p&gt;PlainSight Lab exists to build systems that remain correct under conditions where failure is morally unacceptable and correction is structurally constrained.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

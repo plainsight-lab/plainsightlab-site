@@ -1,0 +1,90 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "PlainSight Lab"
+theme = "hugo-theme-aperture"
+uglyURLs = false
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  description = "TBD."
+  customCSS = ["css/overrides.css"]
+  [params.footer]
+    [[params.footer.org]]
+      name = "PlainSight Lab"
+      url = "/"
+    [[params.footer.org]]
+      name = "Contact"
+      url = "/contact/"
+
+    [[params.footer.resources]]
+      name = "Docs"
+      url = "/docs/"
+    [[params.footer.resources]]
+      name = "Governance"
+      url = "/governance/"
+    [[params.footer.resources]]
+      name = "Security / Responsible Disclosure"
+      url = "/security/"
+
+    [[params.footer.legal]]
+      name = "Privacy"
+      url = "/privacy/"
+    [[params.footer.legal]]
+      name = "Terms"
+      url = "/terms/"
+    [[params.footer.legal]]
+      name = "License"
+      url = "/license/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Approach"
+    url = "/approach/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Governance"
+    url = "/governance/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Systems"
+    url = "/systems/"
+    weight = 50
+
+  [[menu.main]]
+    name = "Derivative Entities"
+    url = "/derivative-entities/"
+    weight = 60
+
+  [[menu.main]]
+    name = "Docs"
+    url = "/docs/"
+    weight = 70
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 80
+
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 20

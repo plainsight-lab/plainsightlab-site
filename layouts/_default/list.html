@@ -1,0 +1,34 @@
+{{ define "main" }}
+  {{ partial "breadcrumbs.html" . }}
+  <header class="stack">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.summary }}
+      <p class="meta">{{ . }}</p>
+    {{ end }}
+  </header>
+  {{ with .Content }}
+    <div class="prose">{{ . }}</div>
+  {{ end }}
+  {{ $paginator := .Paginate .Pages }}
+  <div class="list-grid">
+    {{ range $paginator.Pages }}
+      <article class="card">
+        <h2 class="card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ with .Params.summary }}
+          <p class="card__meta">{{ . }}</p>
+        {{ end }}
+        {{ with .Params.tags }}
+          <div class="cluster">
+            {{ range . }}
+              {{ $tag := . }}
+              {{ with $.Site.GetPage (printf "/tags/%s" (urlize $tag)) }}
+                <a class="tag" href="{{ .RelPermalink }}">{{ $tag }}</a>
+              {{ end }}
+            {{ end }}
+          </div>
+        {{ end }}
+      </article>
+    {{ end }}
+  </div>
+  {{ partial "pagination.html" . }}
+{{ end }}

@@ -1,0 +1,47 @@
+{{ define "main" }}
+  {{ partial "breadcrumbs.html" . }}
+  <header class="stack">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.summary }}
+      <p class="meta">{{ . }}</p>
+    {{ end }}
+  </header>
+  {{ $content := .Content }}
+  {{ $marker := "<h2 id=\"what-this-section-contains\">What This Section Contains</h2>" }}
+  {{ $parts := split $content $marker }}
+  {{ if ge (len $parts) 2 }}
+    <div class="prose">{{ index $parts 0 | safeHTML }}</div>
+  {{ else }}
+    {{ with .Content }}
+      <div class="prose">{{ . }}</div>
+    {{ end }}
+  {{ end }}
+
+  {{ $paginator := .Paginate .Pages }}
+  <section class="section governance-registry">
+    <div class="container container--wide">
+      <h2>What This Section Contains</h2>
+      {{ if ge (len $parts) 2 }}
+        <div class="prose">{{ index $parts 1 | safeHTML }}</div>
+      {{ end }}
+      <div class="list-grid governance-grid">
+        {{ range $paginator.Pages }}
+          <article class="card gov-card">
+            <h2 class="card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ $microcopy := dict
+              "amendments" "How binding documents change."
+              "authority-model" "Who can decide, and what authority exists."
+              "constitution" "View layer to the canonical constitution."
+              "decision-records" "Binding decisions and log."
+              "stewards" "Current steward registry."
+            }}
+            {{ with (index $microcopy .File.TranslationBaseName) }}
+              <p class="card__meta">{{ . }}</p>
+            {{ end }}
+          </article>
+        {{ end }}
+      </div>
+      {{ partial "pagination.html" . }}
+    </div>
+  </section>
+{{ end }}

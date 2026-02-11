@@ -1,0 +1,152 @@
+{{ define "main" }}
+  <section class="hero page-docs">
+    <div class="stack">
+      <h1 class="hero__title">{{ .Title }}</h1>
+      {{ with .Content }}
+        <div class="prose">{{ . }}</div>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="section page-docs">
+    <div class="stack">
+      <h2 class="docs-section-title">Foundational Documents</h2>
+      {{ $items := slice
+        (dict "title" "Systems Thesis" "slug" "systems-thesis")
+        (dict "title" "Internal Constitution" "slug" "internal-constitution")
+        (dict "title" "Truth & Governance Evolution" "slug" "truth-governance-evolution")
+      }}
+      <div class="list-grid docs-grid">
+        {{ range $items }}
+          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
+          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
+          {{ $isPublished := and $page (ne $status "Not Published") }}
+          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
+            <h3 class="card__title">
+              {{ if and $page (ne $status "Not Published") }}
+                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
+              {{ else }}
+                <span class="doc-card__title">{{ .title }}</span>
+              {{ end }}
+            </h3>
+            <p class="card__meta">Status: {{ $status }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="section page-docs">
+    <div class="stack">
+      <h2 class="docs-section-title">Governance &amp; Authority</h2>
+      {{ $items := slice
+        (dict "title" "Governance Framework" "slug" "governance-framework")
+        (dict "title" "Stewardship Model" "slug" "stewardship-model")
+        (dict "title" "Responsible Disclosure Policy" "slug" "responsible-disclosure-policy")
+        (dict "title" "Security Posture" "slug" "security-posture")
+      }}
+      <div class="list-grid docs-grid">
+        {{ range $items }}
+          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
+          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
+          {{ $isPublished := and $page (ne $status "Not Published") }}
+          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
+            <h3 class="card__title">
+              {{ if and $page (ne $status "Not Published") }}
+                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
+              {{ else }}
+                <span class="doc-card__title">{{ .title }}</span>
+              {{ end }}
+            </h3>
+            <p class="card__meta">Status: {{ $status }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="section page-docs">
+    <div class="stack">
+      <h2 class="docs-section-title">Systems &amp; Problem Classes</h2>
+      {{ $items := slice
+        (dict "title" "Problem Classes" "slug" "problem-classes")
+        (dict "title" "System Boundaries" "slug" "system-boundaries")
+        (dict "title" "Adversarial Assumptions" "slug" "adversarial-assumptions")
+        (dict "title" "Enforcement Through Observation" "slug" "enforcement-through-observation")
+      }}
+      <div class="list-grid docs-grid">
+        {{ range $items }}
+          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
+          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
+          {{ $isPublished := and $page (ne $status "Not Published") }}
+          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
+            <h3 class="card__title">
+              {{ if and $page (ne $status "Not Published") }}
+                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
+              {{ else }}
+                <span class="doc-card__title">{{ .title }}</span>
+              {{ end }}
+            </h3>
+            <p class="card__meta">Status: {{ $status }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="section page-docs">
+    <div class="stack">
+      <h2 class="docs-section-title">Derivative Entities</h2>
+      {{ $items := slice
+        (dict "title" "Derivative Entity Charter Template" "slug" "derivative-entity-charter-template")
+        (dict "title" "Entity Hierarchy" "slug" "entity-hierarchy")
+        (dict "title" "Compliance & Alignment Requirements" "slug" "compliance-alignment-requirements")
+      }}
+      <div class="list-grid docs-grid">
+        {{ range $items }}
+          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
+          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
+          {{ $isPublished := and $page (ne $status "Not Published") }}
+          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
+            <h3 class="card__title">
+              {{ if and $page (ne $status "Not Published") }}
+                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
+              {{ else }}
+                <span class="doc-card__title">{{ .title }}</span>
+              {{ end }}
+            </h3>
+            <p class="card__meta">Status: {{ $status }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="section page-docs">
+    <div class="stack">
+      <h2 class="docs-section-title">Status &amp; Versioning</h2>
+      {{ $items := slice
+        (dict "title" "Effective date" "slug" "effective-date")
+        (dict "title" "Current governing version" "slug" "current-governing-version")
+        (dict "title" "Archived versions (read-only)" "slug" "archived-versions")
+      }}
+      <div class="list-grid docs-grid">
+        {{ range $items }}
+          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
+          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
+          {{ $isPublished := and $page (ne $status "Not Published") }}
+          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
+            <h3 class="card__title">
+              {{ if and $page (ne $status "Not Published") }}
+                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
+              {{ else }}
+                <span class="doc-card__title">{{ .title }}</span>
+              {{ end }}
+            </h3>
+            <p class="card__meta">Status: {{ $status }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}

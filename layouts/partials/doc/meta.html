@@ -1,0 +1,26 @@
+<div class="doc-meta" role="note">
+  <dl class="doc-meta__list">
+    <div class="doc-meta__row">
+      <dt>Type</dt>
+      <dd>{{ .Params.doc_type | default "—" }}</dd>
+    </div>
+    <div class="doc-meta__row">
+      <dt>Version</dt>
+      <dd>{{ .Params.version | default "—" }}</dd>
+    </div>
+    <div class="doc-meta__row">
+      <dt>Status</dt>
+      <dd>{{ .Params.status | default "—" }}</dd>
+    </div>
+    <div class="doc-meta__row">
+      <dt>Effective</dt>
+      <dd>{{ .Params.effective_date | default "—" }}</dd>
+    </div>
+    {{ with .Params.derived_from }}
+      <div class="doc-meta__row">
+        <dt>Derived From</dt>
+        <dd>{{ . }}</dd>
+      </div>
+    {{ end }}
+  </dl>
+</div>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charters on PlainSight Lab</title>
+    <link>http://localhost:1313/docs/charters/</link>
+    <description>Recent content in Charters on PlainSight Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/charters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charter Template</title>
+      <link>http://localhost:1313/docs/charters/charter-template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/charters/charter-template/</guid>
+      <description>&lt;h2 id=&#34;outline&#34;&gt;Outline&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Example Charter</title>
+      <link>http://localhost:1313/docs/charters/example-charter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/charters/example-charter/</guid>
+      <description>&lt;h2 id=&#34;sections&#34;&gt;Sections&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

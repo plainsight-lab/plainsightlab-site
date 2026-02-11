@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-aperture"]
+	path = themes/hugo-theme-aperture
+	url = https://github.com/plainsight-lab/hugo-theme-aperture

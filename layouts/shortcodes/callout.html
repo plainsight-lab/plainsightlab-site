@@ -1,0 +1,20 @@
+{{ $type := .Get "type" }}
+{{ if not $type }}
+  {{ $type = .Get "role" }}
+{{ end }}
+{{ if not $type }}
+  {{ $type = "info" }}
+{{ end }}
+{{ $title := .Get "title" }}
+{{ $wide := .Get "wide" | default "false" }}
+{{ $bleed := .Get "bleed" | default "false" }}
+<aside class="callout callout--{{ $type }}{{ if eq $wide "true" }} callout--wide{{ end }}{{ if eq $bleed "true" }} callout--bleed{{ end }}">
+  <div class="callout__inner">
+    {{ if $title }}
+      <div class="callout__title">{{ $title }}</div>
+    {{ end }}
+    <div class="callout__body">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</aside>

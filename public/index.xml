@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlainSight Lab</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on PlainSight Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adversarial Assumptions</title>
+      <link>http://localhost:1313/docs/adversarial-assumptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/adversarial-assumptions/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>AI Operator Model</title>
+      <link>http://localhost:1313/systems/ai-operator-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/ai-operator-model/</guid>
+      <description>&lt;h2 id=&#34;model&#34;&gt;Model&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Amendments</title>
+      <link>http://localhost:1313/governance/amendments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/amendments/</guid>
+      <description>&lt;p&gt;PlainSight Lab does not treat governance as content. Governing documents are &lt;strong&gt;binding&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This page defines how changes occur to binding documents and how those changes are recorded.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;If it is not amended through process, it is not changed.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-what-can-be-amended&#34;&gt;1. What Can Be Amended&lt;/h2&gt;&#xA;&lt;p&gt;Amendments apply to documents that are designated:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Active&lt;/strong&gt; in Docs, and/or&lt;/li&gt;&#xA;&lt;li&gt;identified as canonical sources of truth (constitution, thesis, governance framework, policies)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Draft documents may be edited freely until they become Active.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archived versions (read-only)</title>
+      <link>http://localhost:1313/docs/archived-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/archived-versions/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Authority Model</title>
+      <link>http://localhost:1313/governance/authority-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/authority-model/</guid>
+      <description>&lt;h1 id=&#34;authority-model&#34;&gt;Authority Model&lt;/h1&gt;&#xA;&lt;p&gt;Authority within PlainSight Lab is defined, bounded, and attributable.&lt;/p&gt;&#xA;&lt;p&gt;Authority does not arise from personality, reputation, expertise, or influence.&lt;br&gt;&#xA;Authority arises only from constitutional definition and documented role.&lt;/p&gt;&#xA;&lt;p&gt;If authority is not explicitly granted, it does not exist.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;authority-types&#34;&gt;Authority Types&lt;/h2&gt;&#xA;&lt;p&gt;PlainSight Lab recognizes three authority types:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-epistemic-authority&#34;&gt;1. Epistemic Authority&lt;/h3&gt;&#xA;&lt;p&gt;The authority to define canonical truth.&lt;/p&gt;&#xA;&lt;p&gt;This includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Specification definition&lt;/li&gt;&#xA;&lt;li&gt;Invariant articulation&lt;/li&gt;&#xA;&lt;li&gt;Problem classification&lt;/li&gt;&#xA;&lt;li&gt;Formal correction criteria&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Epistemic authority is constrained by the Constitution and subject to amendment thresholds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Charter Template</title>
+      <link>http://localhost:1313/docs/charters/charter-template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/charters/charter-template/</guid>
+      <description>&lt;h2 id=&#34;outline&#34;&gt;Outline&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Clear Ledger</title>
+      <link>http://localhost:1313/derivative-entities/clear-ledger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/derivative-entities/clear-ledger/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Compliance &amp; Alignment Requirements</title>
+      <link>http://localhost:1313/docs/compliance-alignment-requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/compliance-alignment-requirements/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Constitution</title>
+      <link>http://localhost:1313/governance/constitution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/constitution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constraints</title>
+      <link>http://localhost:1313/approach/constraints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approach/constraints/</guid>
+      <description>&lt;h2 id=&#34;constraints&#34;&gt;Constraints&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Context Forge</title>
+      <link>http://localhost:1313/derivative-entities/context-forge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/derivative-entities/context-forge/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Current governing version</title>
+      <link>http://localhost:1313/docs/current-governing-version/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/current-governing-version/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Decision Records</title>
+      <link>http://localhost:1313/governance/decision-records/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/decision-records/</guid>
+      <description>&lt;p&gt;Governance requires memory.&lt;/p&gt;&#xA;&lt;p&gt;This page defines what must be recorded, how records are structured, and where authoritative decision history lives.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;If a decision is binding, it must be recorded.&lt;/strong&gt;&lt;br&gt;&#xA;If it is not recorded, it is not binding.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-what-gets-recorded&#34;&gt;1. What Gets Recorded&lt;/h2&gt;&#xA;&lt;p&gt;Record a Decision Record when:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a governing document is adopted, amended, or retired&lt;/li&gt;&#xA;&lt;li&gt;a steward role is created, assigned, or revoked&lt;/li&gt;&#xA;&lt;li&gt;an exception is granted (and its expiry)&lt;/li&gt;&#xA;&lt;li&gt;a compliance or enforcement action is taken&lt;/li&gt;&#xA;&lt;li&gt;an authority boundary is clarified in a binding way&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-where-records-live&#34;&gt;2. Where Records Live&lt;/h2&gt;&#xA;&lt;p&gt;For MVP, Decision Records are stored as:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Derivative Entity Charter Template</title>
+      <link>http://localhost:1313/docs/derivative-entity-charter-template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/derivative-entity-charter-template/</guid>
+      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;&#xA;&lt;p&gt;Governing charter template.&lt;br&gt;&#xA;Not marketing.&lt;/p&gt;&#xA;&lt;p&gt;This document defines the authority boundaries, obligations, and constraints of a derivative entity operating under the stewardship of PlainSight Lab.&lt;/p&gt;&#xA;&lt;p&gt;This document is binding upon adoption.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;article-i--entity-definition&#34;&gt;Article I — Entity Definition&lt;/h2&gt;&#xA;&lt;p&gt;This charter governs the derivative entity identified as:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Entity Name:&lt;/strong&gt; &lt;em&gt;[To be specified]&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Entity Type:&lt;/strong&gt; Product / Implementation&lt;br&gt;&#xA;&lt;strong&gt;Stewarding Authority:&lt;/strong&gt; PlainSight Lab&lt;br&gt;&#xA;&lt;strong&gt;Canonical Standards Source:&lt;/strong&gt; Invariant.org&lt;/p&gt;&#xA;&lt;p&gt;This entity exists to implement, operationalize, or otherwise apply canonical specifications and governance frameworks stewarded by PlainSight Lab and published via Invariant.org.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design Principles</title>
+      <link>http://localhost:1313/approach/design-principles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approach/design-principles/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;aside class=&#34;callout callout--note&#34;&gt;&#xA;    &lt;div class=&#34;callout__title&#34;&gt;Section A&lt;/div&gt;&#xA;    &lt;div class=&#34;callout__body&#34;&gt;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;section-b&#34;&gt;Section B&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;aside class=&#34;callout callout--info callout--wide&#34;&gt;&#xA;    &lt;div class=&#34;callout__title&#34;&gt;Section C&lt;/div&gt;&#xA;    &lt;div class=&#34;callout__body&#34;&gt;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;section-d&#34;&gt;Section D&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;aside class=&#34;callout callout--danger callout--bleed&#34;&gt;&#xA;  &lt;div class=&#34;callout__inner&#34;&gt;&#xA;    &lt;div class=&#34;callout__title&#34;&gt;Section E&lt;/div&gt;&#xA;    &lt;div class=&#34;callout__body&#34;&gt;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Effective date</title>
+      <link>http://localhost:1313/docs/effective-date/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/effective-date/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Enforcement Through Observation</title>
+      <link>http://localhost:1313/docs/enforcement-through-observation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/enforcement-through-observation/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Entity Hierarchy</title>
+      <link>http://localhost:1313/docs/entity-hierarchy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/entity-hierarchy/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Example Charter</title>
+      <link>http://localhost:1313/docs/charters/example-charter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/charters/example-charter/</guid>
+      <description>&lt;h2 id=&#34;sections&#34;&gt;Sections&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Example Policy</title>
+      <link>http://localhost:1313/docs/policies/example-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/policies/example-policy/</guid>
+      <description>&lt;h2 id=&#34;sections&#34;&gt;Sections&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Example Position Paper</title>
+      <link>http://localhost:1313/docs/position-papers/example-position-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/position-papers/example-position-paper/</guid>
+      <description>&lt;h2 id=&#34;sections&#34;&gt;Sections&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Governance Framework</title>
+      <link>http://localhost:1313/docs/governance-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/governance-framework/</guid>
+      <description>&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;&#xA;&lt;p&gt;This document defines the governance framework of PlainSight Lab.&lt;/p&gt;&#xA;&lt;p&gt;It specifies:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;how authority is exercised,&lt;/li&gt;&#xA;&lt;li&gt;how decisions are made and constrained,&lt;/li&gt;&#xA;&lt;li&gt;how changes are proposed and evaluated,&lt;/li&gt;&#xA;&lt;li&gt;and how governance evolves over time.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This framework is intentionally minimal. It establishes &lt;strong&gt;how governance works&lt;/strong&gt;, not exhaustive procedures for every future condition.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;governing-authority&#34;&gt;Governing Authority&lt;/h2&gt;&#xA;&lt;p&gt;PlainSight Lab exercises governance authority as defined by its &lt;strong&gt;Internal Constitution&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Authority is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;epistemic, not proprietary,&lt;/li&gt;&#xA;&lt;li&gt;bounded, not absolute,&lt;/li&gt;&#xA;&lt;li&gt;exercised explicitly, not implicitly.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;All governance actions must be attributable and traceable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/about/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/history/</guid>
+      <description>&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Internal Constitution</title>
+      <link>http://localhost:1313/docs/internal-constitution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/internal-constitution/</guid>
+      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;&#xA;&lt;p&gt;Foundational governing document.&lt;br&gt;&#xA;Not marketing.&lt;/p&gt;&#xA;&lt;p&gt;This constitution defines the identity, authority boundaries, and self-binding obligations of PlainSight Lab. It exists to preserve correctness, prevent drift, and ensure legitimacy can be safely distributed over time.&lt;/p&gt;&#xA;&lt;p&gt;This document is binding.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;article-i--purpose-and-scope&#34;&gt;Article I — Purpose and Scope&lt;/h2&gt;&#xA;&lt;p&gt;PlainSight Lab exists to anchor correctness in high-stakes systems where legitimacy is fragile and correction costs are high.&lt;/p&gt;&#xA;&lt;p&gt;It is not a product company, a protocol, or a standards body. It is an epistemic and governance authority whose role is to establish, steward, and enforce invariants until those responsibilities can be safely transferred to formal, neutral institutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Laws</title>
+      <link>http://localhost:1313/systems/laws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/laws/</guid>
+      <description>&lt;h2 id=&#34;laws&#34;&gt;Laws&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Legitimacy</title>
+      <link>http://localhost:1313/about/legitimacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/legitimacy/</guid>
+      <description>&lt;h2 id=&#34;basis&#34;&gt;Basis&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>License</title>
+      <link>http://localhost:1313/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/license/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Mission</title>
+      <link>http://localhost:1313/about/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/mission/</guid>
+      <description>&lt;aside class=&#34;callout callout--note&#34;&gt;&#xA;    &lt;div class=&#34;callout__body&#34;&gt;&lt;p&gt;This document does not describe a hypothetical stress case.&lt;/p&gt;&#xA;&lt;p&gt;PlainSight Lab works in domains where failure is already occurring, correction is already too costly, and abstraction itself becomes a form of moral evasion.&lt;/p&gt;&#xA;&lt;p&gt;Child trafficking is not treated as an extreme example.&#xA;It is treated as a real, ongoing system failure that existing technical, institutional, and governance models have proven unable to contain.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mission&#34;&gt;Mission&lt;/h2&gt;&#xA;&lt;p&gt;PlainSight Lab exists to build systems that remain correct under conditions where failure is morally unacceptable and correction is structurally constrained.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Policy Template</title>
+      <link>http://localhost:1313/docs/policies/policy-template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/policies/policy-template/</guid>
+      <description>&lt;h2 id=&#34;outline&#34;&gt;Outline&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Position Paper Outline</title>
+      <link>http://localhost:1313/docs/position-papers/position-paper-outline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/position-papers/position-paper-outline/</guid>
+      <description>&lt;h2 id=&#34;outline&#34;&gt;Outline&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Problem Class</title>
+      <link>http://localhost:1313/approach/problem-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approach/problem-class/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Problem Classes</title>
+      <link>http://localhost:1313/docs/problem-classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/problem-classes/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This document defines the formal &lt;strong&gt;Problem Classes&lt;/strong&gt; addressed by PlainSight Lab.&lt;/p&gt;&#xA;&lt;p&gt;Problem classes are &lt;strong&gt;structural&lt;/strong&gt;, not domain-specific. They describe recurring failure modes that emerge across finance, AI systems, and social infrastructure when adversarial behavior, automation, and delayed correction interact.&lt;/p&gt;&#xA;&lt;p&gt;A system may instantiate multiple problem classes simultaneously. Effective containment requires addressing &lt;strong&gt;all active classes&lt;/strong&gt;, not only the most visible one.&lt;/p&gt;&#xA;&lt;p&gt;This registry exists to prevent misdiagnosis.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;pc-1-unbounded-error-propagation&#34;&gt;PC-1: Unbounded Error Propagation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Definition&lt;/strong&gt;&lt;br&gt;&#xA;Systems in which errors propagate faster than humans can identify and correct them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Responsible Disclosure Policy</title>
+      <link>http://localhost:1313/docs/responsible-disclosure-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/responsible-disclosure-policy/</guid>
+      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;This policy defines how security, safety, and correctness issues should be responsibly disclosed to PlainSight Lab.&lt;/p&gt;&#xA;&lt;p&gt;Its purpose is to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;reduce harm,&lt;/li&gt;&#xA;&lt;li&gt;preserve system integrity,&lt;/li&gt;&#xA;&lt;li&gt;and enable correction before exploitation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This policy is not a marketing instrument. It exists to support correctness under adversarial conditions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;&#xA;&lt;p&gt;This policy applies to disclosures related to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;canonical specifications stewarded by PlainSight Lab,&lt;/li&gt;&#xA;&lt;li&gt;derivative entities operating under its authority,&lt;/li&gt;&#xA;&lt;li&gt;governance mechanisms or invariants,&lt;/li&gt;&#xA;&lt;li&gt;and systems whose failure could cause material harm.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-to-disclose&#34;&gt;What to Disclose&lt;/h2&gt;&#xA;&lt;p&gt;Responsible disclosure includes, but is not limited to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security / Responsible Disclosure</title>
+      <link>http://localhost:1313/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/security/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Security Posture</title>
+      <link>http://localhost:1313/docs/security-posture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/security-posture/</guid>
+      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;This document defines the security posture of PlainSight Lab.&lt;/p&gt;&#xA;&lt;p&gt;It describes how security is treated as a &lt;strong&gt;systems property&lt;/strong&gt;, not a checklist, and how adversarial risk is addressed through structure rather than reaction.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;core-assumptions&#34;&gt;Core Assumptions&lt;/h2&gt;&#xA;&lt;p&gt;PlainSight Lab operates under the following assumptions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Adversarial behavior is normal, not exceptional.&lt;/li&gt;&#xA;&lt;li&gt;Security failures compound faster than they are corrected.&lt;/li&gt;&#xA;&lt;li&gt;Disclosure and correction costs matter as much as exploitability.&lt;/li&gt;&#xA;&lt;li&gt;Trust must be earned through structure, not assertion.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Security is therefore a governance concern, not merely a technical one.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stewards</title>
+      <link>http://localhost:1313/governance/stewards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/stewards/</guid>
+      <description>&lt;h1 id=&#34;stewards&#34;&gt;Stewards&lt;/h1&gt;&#xA;&lt;p&gt;Stewardship roles within PlainSight Lab are constitutional offices.&lt;/p&gt;&#xA;&lt;p&gt;They exist to carry bounded authority in service of invariant preservation, correction discipline, and harm containment.&lt;/p&gt;&#xA;&lt;p&gt;Stewardship is not ownership.&lt;br&gt;&#xA;It is not branding.&lt;br&gt;&#xA;It is not executive status.&lt;/p&gt;&#xA;&lt;p&gt;It is accountable authority exercised within clearly defined limits.&lt;/p&gt;&#xA;&lt;p&gt;Authority flows from the Constitution and governing documents — not from personality, reputation, or influence.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Stewardship is a constitutional burden, not a title.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stewardship Model</title>
+      <link>http://localhost:1313/docs/stewardship-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/stewardship-model/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>System Boundaries</title>
+      <link>http://localhost:1313/docs/system-boundaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/system-boundaries/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Systems Thesis</title>
+      <link>http://localhost:1313/docs/systems-thesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/systems-thesis/</guid>
+      <description>&lt;h2 id=&#34;the-problem-class&#34;&gt;The Problem Class&lt;/h2&gt;&#xA;&lt;p&gt;PlainSight Lab focuses on a specific and increasingly common class of failures:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Systems in which errors propagate faster than humans can identify and correct them.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;These failures are not accidental and not domain-specific. They emerge from structural conditions that now recur across finance, technology, and society:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;adversarial incentives,&lt;/li&gt;&#xA;&lt;li&gt;complex rule systems,&lt;/li&gt;&#xA;&lt;li&gt;and amplification through automation and AI.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When these forces combine, local mistakes become systemic failures. By the time humans intervene, correction is already costly, slow, or institutionally blocked.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Systems Thesis</title>
+      <link>http://localhost:1313/systems/systems-thesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/systems/systems-thesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terms</title>
+      <link>http://localhost:1313/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/terms/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Truth &amp; Governance Evolution</title>
+      <link>http://localhost:1313/docs/truth-governance-evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/truth-governance-evolution/</guid>
+      <description>&lt;p&gt;This document describes the intended lifecycle of truth, governance, and legitimacy across PlainSight Lab and its derivative entities. It exists to align decision-making during early construction, prevent structural drift, and ensure that expansion occurs only when correction costs are safely bounded.&lt;/p&gt;&#xA;&lt;p&gt;This framework is not a growth roadmap. It is a legitimacy and survivability model.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;phase-1--founder-led-truth-anchoring-current&#34;&gt;Phase 1 — Founder-Led Truth Anchoring (Current)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Single protocol. Single implementation. Single governance authority.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This phase is correct and necessary. It is not a compromise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+{{ define "main" }}
+  {{ partial "breadcrumbs.html" . }}
+  <div class="page__grid">
+    <article class="page__content">
+      <header class="stack">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.summary }}
+          <p class="meta">{{ . }}</p>
+        {{ end }}
+      </header>
+      {{ with .Content }}
+        <div class="prose">{{ . }}</div>
+      {{ end }}
+    </article>
+    {{- if and .TableOfContents (ne .Params.toc false) }}
+      <aside class="page__toc">
+        {{ partial "toc.html" . }}
+        {{ partial "about/related" . }}
+      </aside>
+    {{- end }}
+  </div>
+{{ end }}

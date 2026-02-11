@@ -1,0 +1,13 @@
+{{ with .Params.canonical_url }}
+  {{ $canonical := site.GetPage . }}
+  {{ $role := $.Params.canonical_callout_role | default "info" }}
+  <div class="callout callout--{{ $role }} canonical-callout" role="note">
+    <p class="callout__title">Canonical Document</p>
+    <p class="callout__body">
+      This page is a view layer. Canonical source:
+      <a href="{{ . }}">{{ if $canonical }}{{ $canonical.Title }}{{ else }}{{ . }}{{ end }}</a>.
+    </p>
+    <a class="canonical-link" href="{{ . }}">View canonical document →</a>
+    <p class="canonical-callout__muted">This page contains no additional content.</p>
+  </div>
+{{ end }}

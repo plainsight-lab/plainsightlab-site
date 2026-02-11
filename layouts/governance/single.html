@@ -1,0 +1,29 @@
+{{ define "main" }}
+  {{ partial "breadcrumbs.html" . }}
+  <div class="page__grid">
+    <article class="page__content">
+      <header class="stack">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.summary }}
+          <p class="meta">{{ . }}</p>
+        {{ end }}
+        {{ if .Date }}
+          <p class="meta">{{ .Date.Format "January 2, 2006" }}</p>
+        {{ end }}
+      </header>
+      {{ $isView := or (eq .Params.status "View") (isset .Params "canonical_url") }}
+      {{ if $isView }}
+        {{ partial "canonical-callout.html" . }}
+      {{ else }}
+        <div class="prose">
+          {{ .Content }}
+        </div>
+      {{ end }}
+    </article>
+    {{- if and (not $isView) .TableOfContents (ne .Params.toc false) }}
+      <aside class="page__toc">
+        {{ partial "toc.html" . }}
+      </aside>
+    {{- end }}
+  </div>
+{{ end }}

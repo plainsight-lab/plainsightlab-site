@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Approach on PlainSight Lab</title>
+    <link>http://localhost:1313/approach/</link>
+    <description>Recent content in Approach on PlainSight Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/approach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constraints</title>
+      <link>http://localhost:1313/approach/constraints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approach/constraints/</guid>
+      <description>&lt;h2 id=&#34;constraints&#34;&gt;Constraints&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Design Principles</title>
+      <link>http://localhost:1313/approach/design-principles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approach/design-principles/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;aside class=&#34;callout callout--note&#34;&gt;&#xA;  &lt;div class=&#34;callout__inner&#34;&gt;&#xA;    &#xA;      &lt;div class=&#34;callout__title&#34;&gt;Section A&lt;/div&gt;&#xA;    &#xA;    &lt;div class=&#34;callout__body&#34;&gt;&#xA;      &lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;section-b&#34;&gt;Section B&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;aside class=&#34;callout callout--info callout--wide&#34;&gt;&#xA;  &lt;div class=&#34;callout__inner&#34;&gt;&#xA;    &#xA;      &lt;div class=&#34;callout__title&#34;&gt;Section C&lt;/div&gt;&#xA;    &#xA;    &lt;div class=&#34;callout__body&#34;&gt;&#xA;      &lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;section-d&#34;&gt;Section D&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;aside class=&#34;callout callout--danger callout--bleed&#34;&gt;&#xA;  &lt;div class=&#34;callout__inner&#34;&gt;&#xA;    &#xA;      &lt;div class=&#34;callout__title&#34;&gt;Section E&lt;/div&gt;&#xA;    &#xA;    &lt;div class=&#34;callout__body&#34;&gt;&#xA;      &lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/aside&gt;&#xA;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Problem Class</title>
+      <link>http://localhost:1313/approach/problem-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approach/problem-class/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;li&gt;TBD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

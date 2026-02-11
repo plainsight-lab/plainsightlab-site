@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance on PlainSight Lab</title>
+    <link>http://localhost:1313/governance/</link>
+    <description>Recent content in Governance on PlainSight Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amendments</title>
+      <link>http://localhost:1313/governance/amendments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/amendments/</guid>
+      <description>&lt;p&gt;PlainSight Lab does not treat governance as content. Governing documents are &lt;strong&gt;binding&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This page defines how changes occur to binding documents and how those changes are recorded.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;If it is not amended through process, it is not changed.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-what-can-be-amended&#34;&gt;1. What Can Be Amended&lt;/h2&gt;&#xA;&lt;p&gt;Amendments apply to documents that are designated:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Active&lt;/strong&gt; in Docs, and/or&lt;/li&gt;&#xA;&lt;li&gt;identified as canonical sources of truth (constitution, thesis, governance framework, policies)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Draft documents may be edited freely until they become Active.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Authority Model</title>
+      <link>http://localhost:1313/governance/authority-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/authority-model/</guid>
+      <description>&lt;h1 id=&#34;authority-model&#34;&gt;Authority Model&lt;/h1&gt;&#xA;&lt;p&gt;Authority within PlainSight Lab is defined, bounded, and attributable.&lt;/p&gt;&#xA;&lt;p&gt;Authority does not arise from personality, reputation, expertise, or influence.&lt;br&gt;&#xA;Authority arises only from constitutional definition and documented role.&lt;/p&gt;&#xA;&lt;p&gt;If authority is not explicitly granted, it does not exist.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;authority-types&#34;&gt;Authority Types&lt;/h2&gt;&#xA;&lt;p&gt;PlainSight Lab recognizes three authority types:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-epistemic-authority&#34;&gt;1. Epistemic Authority&lt;/h3&gt;&#xA;&lt;p&gt;The authority to define canonical truth.&lt;/p&gt;&#xA;&lt;p&gt;This includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Specification definition&lt;/li&gt;&#xA;&lt;li&gt;Invariant articulation&lt;/li&gt;&#xA;&lt;li&gt;Problem classification&lt;/li&gt;&#xA;&lt;li&gt;Formal correction criteria&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Epistemic authority is constrained by the Constitution and subject to amendment thresholds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Constitution</title>
+      <link>http://localhost:1313/governance/constitution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/constitution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decision Records</title>
+      <link>http://localhost:1313/governance/decision-records/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/decision-records/</guid>
+      <description>&lt;p&gt;Governance requires memory.&lt;/p&gt;&#xA;&lt;p&gt;This page defines what must be recorded, how records are structured, and where authoritative decision history lives.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;If a decision is binding, it must be recorded.&lt;/strong&gt;&lt;br&gt;&#xA;If it is not recorded, it is not binding.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-what-gets-recorded&#34;&gt;1. What Gets Recorded&lt;/h2&gt;&#xA;&lt;p&gt;Record a Decision Record when:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a governing document is adopted, amended, or retired&lt;/li&gt;&#xA;&lt;li&gt;a steward role is created, assigned, or revoked&lt;/li&gt;&#xA;&lt;li&gt;an exception is granted (and its expiry)&lt;/li&gt;&#xA;&lt;li&gt;a compliance or enforcement action is taken&lt;/li&gt;&#xA;&lt;li&gt;an authority boundary is clarified in a binding way&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-where-records-live&#34;&gt;2. Where Records Live&lt;/h2&gt;&#xA;&lt;p&gt;For MVP, Decision Records are stored as:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stewards</title>
+      <link>http://localhost:1313/governance/stewards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/governance/stewards/</guid>
+      <description>&lt;h1 id=&#34;stewards&#34;&gt;Stewards&lt;/h1&gt;&#xA;&lt;p&gt;Stewardship roles within PlainSight Lab are constitutional offices.&lt;/p&gt;&#xA;&lt;p&gt;They exist to carry bounded authority in service of invariant preservation, correction discipline, and harm containment.&lt;/p&gt;&#xA;&lt;p&gt;Stewardship is not ownership.&lt;br&gt;&#xA;It is not branding.&lt;br&gt;&#xA;It is not executive status.&lt;/p&gt;&#xA;&lt;p&gt;It is accountable authority exercised within clearly defined limits.&lt;/p&gt;&#xA;&lt;p&gt;Authority flows from the Constitution and governing documents — not from personality, reputation, or influence.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Stewardship is a constitutional burden, not a title.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
