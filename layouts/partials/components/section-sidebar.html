@@ -1,0 +1,36 @@
+{{/*
+  Section Sidebar Component
+
+  Renders a sidebar with optional TOC and/or related links.
+
+  Parameters (dict):
+  - page (Page, required): Current page context
+  - showTOC (bool, optional): Show table of contents (default: false)
+  - relatedPartial (string, optional): Path to related links partial (e.g. "about/related")
+
+  Example:
+    {{ partial "components/section-sidebar.html" (dict
+       "page" .
+       "showTOC" true
+       "relatedPartial" "about/related"
+    ) }}
+*/}}
+
+{{- $page := .page -}}
+{{- $showTOC := .showTOC | default false -}}
+{{- $relatedPartial := .relatedPartial -}}
+
+{{- $hasTOC := and $showTOC $page.TableOfContents (ne $page.Params.toc false) -}}
+{{- $hasRelated := $relatedPartial -}}
+
+{{- if or $hasTOC $hasRelated -}}
+<aside class="page__toc">
+  {{- if $hasTOC -}}
+    {{ partial "toc.html" $page }}
+  {{- end -}}
+
+  {{- if $hasRelated -}}
+    {{ partial $relatedPartial $page }}
+  {{- end -}}
+</aside>
+{{- end -}}

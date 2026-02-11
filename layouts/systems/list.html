@@ -12,10 +12,10 @@
         <div class="prose">{{ . }}</div>
       {{ end }}
     </article>
-    {{/* Sidebar: TOC + related docs */}}
+    {{/* Sidebar: No TOC, only related docs */}}
     {{ partial "components/section-sidebar.html" (dict
        "page" .
-       "showTOC" true
+       "showTOC" false
        "relatedPartial" "about/related"
     ) }}
   </div>
