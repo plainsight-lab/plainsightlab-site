@@ -26,7 +26,7 @@
       {{ end }}
       <div class="list-grid governance-grid">
         {{ range $paginator.Pages }}
-          <article class="card gov-card">
+          <article class="card card--status-indicator gov-card">
             <h2 class="card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             {{ $microcopy := dict
               "amendments" "How binding documents change."

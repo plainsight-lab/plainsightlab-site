@@ -31,10 +31,17 @@
     border: var(--border-sm) solid var(--color-surface-alt);
     border-radius: var(--radius-sm);
     padding: var(--space-md);
+    position: relative;
     background: var(--color-bg);
   }
 
   .doc-meta::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
     background: var(--color-danger);
   }
 
@@ -100,7 +107,17 @@
   }
 
   /* Document Cards - Status Indicators */
+  .page-docs .doc-card {
+    position: relative;
+  }
+
   .page-docs .doc-card::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
     background: var(--color-muted);
   }
 

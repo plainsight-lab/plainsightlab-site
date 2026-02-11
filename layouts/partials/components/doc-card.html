@@ -18,7 +18,7 @@
 {{- $status := cond $page ($page.Params.status | default "Not Published") "Not Published" -}}
 {{- $isPublished := and $page (ne $status "Not Published") -}}
 
-<article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
+<article class="card card--status-indicator doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
   <h3 class="card__title">
     {{ if $isPublished }}
       <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
