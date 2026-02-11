@@ -89,9 +89,5 @@
     --callout-fg: var(--color-fg);
     --callout-border: var(--color-border);
     --callout-title-fg: var(--color-fg);
-
-    /* Override theme warning callout to use brand crimson */
-    --callout-warning-bg: var(--theme-crimson);
-    --callout-warning-border: var(--theme-crimson);
   }
 }

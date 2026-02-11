@@ -6,6 +6,11 @@
 
 @layer components {
   /* Callout Variants - Brand Extensions */
+  .callout--warning {
+    --callout-bg: var(--theme-crimson);
+    --callout-border: var(--theme-crimson);
+  }
+
   .callout--frost {
     --callout-bg: var(--theme-frost);
     --callout-border: var(--theme-frost);
