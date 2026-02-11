@@ -22,23 +22,6 @@
     max-width: var(--measure);
   }
 
-  /* Blockquote styling (removed .prose wrapper, need explicit styling) */
-  .page__content--home > blockquote {
-    margin: var(--space-md) 0;
-    padding: var(--space-md);
-    border-left: var(--border-accent) solid var(--color-accent);
-    background: var(--color-surface-alt);
-    color: var(--color-fg);
-  }
-
-  .page__content--home > blockquote p {
-    margin: 0;
-  }
-
-  .page__content--home > blockquote p + p {
-    margin-top: var(--space-sm);
-  }
-
   /* Content Section - Bleed & Wide variants */
   .content-section--wide {
     position: relative;
