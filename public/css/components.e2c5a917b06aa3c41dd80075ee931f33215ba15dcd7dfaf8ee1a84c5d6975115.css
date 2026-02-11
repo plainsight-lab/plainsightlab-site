@@ -10,16 +10,10 @@
     margin-inline: 0;
   }
 
-  /* Home page content - Individual elements get width constraint, not wrapper */
-  .page__content--home > h1,
-  .page__content--home > h2,
-  .page__content--home > h3,
-  .page__content--home > p,
-  .page__content--home > blockquote,
-  .page__content--home > ul,
-  .page__content--home > ol,
-  .page__content--home > hr {
+  /* Home page content - Simple approach */
+  .page__content--home {
     max-width: var(--measure);
+    margin: 0 auto;
   }
 
   /* Content Section - Bleed & Wide variants */

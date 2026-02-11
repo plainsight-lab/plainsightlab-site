@@ -10,7 +10,12 @@
     margin-inline: 0;
   }
 
-  /* Home page content - Individual elements get width constraint, not wrapper */
+  /* Home page content - No centering, let container handle it */
+  .page__content--home {
+    /* Container already handles centering, don't add more */
+  }
+
+  /* Individual elements that need width constraint */
   .page__content--home > h1,
   .page__content--home > h2,
   .page__content--home > h3,
