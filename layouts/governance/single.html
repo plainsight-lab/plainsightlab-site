@@ -13,7 +13,7 @@
       </header>
       {{ $isView := or (eq .Params.status "View") (isset .Params "canonical_url") }}
       {{ if $isView }}
-        {{ partial "canonical-callout.html" . }}
+        {{ partial "components/canonical-callout.html" . }}
       {{ else }}
         <div class="prose">
           {{ .Content }}

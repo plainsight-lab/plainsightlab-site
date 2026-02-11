@@ -1,0 +1,30 @@
+{{/*
+  Document Card Component
+
+  Renders a card for a document with status indicator.
+
+  Parameters (dict):
+  - title (string, required): Document title
+  - slug (string, required): Document slug for URL
+  - status (string, optional): Document status (defaults to "Not Published")
+  - section (string, optional): Section path (defaults to "docs")
+
+  Example:
+    {{ partial "components/doc-card.html" (dict "title" "My Doc" "slug" "my-doc") }}
+*/}}
+
+{{- $section := .section | default "docs" -}}
+{{- $page := site.GetPage (printf "/%s/%s" $section .slug) -}}
+{{- $status := cond $page ($page.Params.status | default "Not Published") "Not Published" -}}
+{{- $isPublished := and $page (ne $status "Not Published") -}}
+
+<article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
+  <h3 class="card__title">
+    {{ if $isPublished }}
+      <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
+    {{ else }}
+      <span class="doc-card__title">{{ .title }}</span>
+    {{ end }}
+  </h3>
+  <p class="card__meta">Status: {{ $status }}</p>
+</article>

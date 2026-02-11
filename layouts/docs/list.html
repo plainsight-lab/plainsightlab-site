@@ -18,19 +18,7 @@
       }}
       <div class="list-grid docs-grid">
         {{ range $items }}
-          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
-          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
-          {{ $isPublished := and $page (ne $status "Not Published") }}
-          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
-            <h3 class="card__title">
-              {{ if and $page (ne $status "Not Published") }}
-                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
-              {{ else }}
-                <span class="doc-card__title">{{ .title }}</span>
-              {{ end }}
-            </h3>
-            <p class="card__meta">Status: {{ $status }}</p>
-          </article>
+          {{ partial "components/doc-card.html" . }}
         {{ end }}
       </div>
     </div>
@@ -47,19 +35,7 @@
       }}
       <div class="list-grid docs-grid">
         {{ range $items }}
-          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
-          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
-          {{ $isPublished := and $page (ne $status "Not Published") }}
-          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
-            <h3 class="card__title">
-              {{ if and $page (ne $status "Not Published") }}
-                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
-              {{ else }}
-                <span class="doc-card__title">{{ .title }}</span>
-              {{ end }}
-            </h3>
-            <p class="card__meta">Status: {{ $status }}</p>
-          </article>
+          {{ partial "components/doc-card.html" . }}
         {{ end }}
       </div>
     </div>
@@ -76,19 +52,7 @@
       }}
       <div class="list-grid docs-grid">
         {{ range $items }}
-          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
-          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
-          {{ $isPublished := and $page (ne $status "Not Published") }}
-          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
-            <h3 class="card__title">
-              {{ if and $page (ne $status "Not Published") }}
-                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
-              {{ else }}
-                <span class="doc-card__title">{{ .title }}</span>
-              {{ end }}
-            </h3>
-            <p class="card__meta">Status: {{ $status }}</p>
-          </article>
+          {{ partial "components/doc-card.html" . }}
         {{ end }}
       </div>
     </div>
@@ -104,19 +68,7 @@
       }}
       <div class="list-grid docs-grid">
         {{ range $items }}
-          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
-          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
-          {{ $isPublished := and $page (ne $status "Not Published") }}
-          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
-            <h3 class="card__title">
-              {{ if and $page (ne $status "Not Published") }}
-                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
-              {{ else }}
-                <span class="doc-card__title">{{ .title }}</span>
-              {{ end }}
-            </h3>
-            <p class="card__meta">Status: {{ $status }}</p>
-          </article>
+          {{ partial "components/doc-card.html" . }}
         {{ end }}
       </div>
     </div>
@@ -132,19 +84,7 @@
       }}
       <div class="list-grid docs-grid">
         {{ range $items }}
-          {{ $page := site.GetPage (printf "/docs/%s" .slug) }}
-          {{ $status := cond $page ($page.Params.status | default "Not Published") "Not Published" }}
-          {{ $isPublished := and $page (ne $status "Not Published") }}
-          <article class="card doc-card {{ if $isPublished }}doc-card--published{{ else }}doc-card--unpublished{{ end }}">
-            <h3 class="card__title">
-              {{ if and $page (ne $status "Not Published") }}
-                <a href="{{ $page.RelPermalink }}">{{ .title }}</a>
-              {{ else }}
-                <span class="doc-card__title">{{ .title }}</span>
-              {{ end }}
-            </h3>
-            <p class="card__meta">Status: {{ $status }}</p>
-          </article>
+          {{ partial "components/doc-card.html" . }}
         {{ end }}
       </div>
     </div>

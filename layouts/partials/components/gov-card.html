@@ -1,0 +1,28 @@
+{{/*
+  Governance Card Component
+
+  Renders a card for a governance document with crimson accent.
+
+  Parameters (dict):
+  - page (Page, required): Hugo page object
+  - showMeta (bool, optional): Whether to show metadata (default: true)
+
+  Example:
+    {{ range .Pages }}
+      {{ partial "components/gov-card.html" (dict "page" . "showMeta" true) }}
+    {{ end }}
+*/}}
+
+{{- $showMeta := .showMeta | default true -}}
+{{- $page := .page -}}
+
+<article class="card gov-card">
+  <h3 class="card__title">
+    <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
+  </h3>
+  {{ if $showMeta }}
+    {{ with $page.Params.summary }}
+      <p class="card__meta">{{ . }}</p>
+    {{ end }}
+  {{ end }}
+</article>

@@ -12,7 +12,7 @@
         {{ end }}
       </header>
       {{ if eq .Section "docs" }}
-        {{ partial "doc/meta.html" . }}
+        {{ partial "components/doc-meta.html" . }}
       {{ end }}
       <div class="prose">
         {{ .Content }}
