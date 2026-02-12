@@ -18,7 +18,7 @@ draft = false
 
 {{< section bleed="true" variant="dark" >}}
 
-### Systems are contested be default
+### Systems are contested by default
 
 Execution compounds error.   
 Ambiguity is weaponized.   
@@ -49,7 +49,7 @@ Design begins where exploitation is assumed.
 
 > **Constraint as Enforcement**
 >
-> Refusal is structural
+> Refusal is structural.
 >
 > Scale without constraint increases fragility.
 
