@@ -18,13 +18,13 @@ draft = false
 
 {{< section bleed="true" variant="dark" >}}
 
-### Adversarial Systems Are the Default
+### Systems are contested be default
 
-Errors propagate at machine speed.
-Ambiguity is exploited.
-Correction becomes expensive once execution occurs.
+Execution compounds error.   
+Ambiguity is weaponized.   
+Correction costs escalate after action.    
 
-Design must assume exploitation before deployment.
+Design begins where exploitation is assumed.
 
 {{< /section >}}
 
