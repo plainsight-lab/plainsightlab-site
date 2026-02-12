@@ -1,9 +1,7 @@
 {{ define "main" }}
-<div class="container">
-  <article class="page__content page__content--home">
-    {{ with .Content }}
-      {{ . }}
-    {{ end }}
-  </article>
-</div>
+<article class="page__content page__content--home">
+  {{ with .Content }}
+    {{ . }}
+  {{ end }}
+</article>
 {{ end }}

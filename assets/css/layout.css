@@ -5,6 +5,21 @@
  */
 
 @layer layout {
+  /* Prevent horizontal overflow from bleed sections */
+  body {
+    overflow-x: hidden;
+  }
+
+  /* Container adjustments for mobile */
+  @media (max-width: 800px) {
+    .container,
+    .site-header .container,
+    .site-footer .container {
+      padding-left: var(--space-md);
+      padding-right: var(--space-md);
+    }
+  }
+
   /* Header Customization */
   .site-header {
     background: var(--color-fg);
@@ -19,9 +34,9 @@
   }
 
   .site-header .container {
-    width: min(1200px, 92vw);
-    padding-left: var(--space-xl);
-    padding-right: var(--space-xl);
+    width: var(--container);
+    padding-left: var(--page-gutter);
+    padding-right: var(--page-gutter);
   }
 
   /* Site Identity */
@@ -82,6 +97,55 @@
     border-bottom-color: var(--color-danger);
   }
 
+  /* Mobile Navigation */
+  @media (max-width: 800px) {
+    .nav-toggle {
+      display: block;
+    }
+
+    .nav--desktop {
+      display: none;
+    }
+
+    .nav--mobile {
+      display: none;
+      flex-direction: column;
+      align-items: flex-start;
+      position: absolute;
+      right: 0;
+      top: calc(100% + var(--space-xs));
+      min-width: 12rem;
+      padding: var(--space-sm);
+      background: var(--color-fg);
+      border: var(--border-sm) solid rgba(232, 230, 225, 0.2);
+      border-radius: var(--radius-sm);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      z-index: 100;
+    }
+
+    .nav-toggle[open] .nav--mobile {
+      display: flex;
+    }
+
+    .nav--mobile .nav-link {
+      width: 100%;
+      padding: var(--space-xs) var(--space-sm);
+      border-bottom: none;
+      border-left: 2px solid transparent;
+    }
+
+    .nav--mobile .nav-link:hover,
+    .nav--mobile .nav-link:focus-visible {
+      border-left-color: var(--color-accent);
+      border-bottom-color: transparent;
+    }
+
+    .nav--mobile .nav-link.is-active {
+      border-left-color: var(--color-danger);
+      border-bottom-color: transparent;
+    }
+  }
+
   /* Footer Customization */
   .site-footer {
     background: var(--color-fg);
@@ -89,9 +153,9 @@
   }
 
   .site-footer .container {
-    width: min(1200px, 92vw);
-    padding-left: var(--space-xl);
-    padding-right: var(--space-xl);
+    width: var(--container);
+    padding-left: var(--page-gutter);
+    padding-right: var(--page-gutter);
   }
 
   .footer__grid {
