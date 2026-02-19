@@ -12,7 +12,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 You may:
 - share,
 - adapt,
-- and redistribute
+- and redistribute.
 
 provided that:
 - proper attribution is given,

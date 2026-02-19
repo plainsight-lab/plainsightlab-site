@@ -43,13 +43,13 @@ AI does not create adversarial systems. It **changes their energy profile**.
 AI:
 - lowers the cost of strategy generation,
 - accelerates probing and exploitation,
-- scales manipulation and deception,
-- and compresses the time between action and consequence.
+- scales manipulation and deception, and
+- compresses the time between action and consequence.
 
 In adversarial environments, this produces a dangerous asymmetry:
 
-- **error propagation accelerates at machine speed**
-- **the energy required to identify and the energy required to correct remain human-bound**
+- **error propagation accelerates at machine speed**, and
+- **the energy required to identify and the energy required to correct remain human-bound.**
 
 Without explicit constraints, AI amplifies both mistakes and malicious intent faster than humans can respond.
 
@@ -207,7 +207,7 @@ PlainSight Lab exists to ensure that it does.
 
 ### Document Scope
 
-- This document is published at **plainsightlab.com**
-- Formal laws, equations, and specifications belong at **Invariant.org**
-- Products reference this thesis implicitly, not verbatim
-- This document exists to make the ecosystem feel *structurally inevitable*
+- This document is published at **plainsightlab.com**.
+- Formal laws, equations, and specifications belong at **Invariant.org**.
+- Products reference this thesis implicitly, not verbatim.
+- This document exists to make the ecosystem feel *structurally inevitable*.

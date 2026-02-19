@@ -4,8 +4,6 @@ description = "Governance-first systems for adversarial, AI-amplified environmen
 draft = false
 +++
 
-# PlainSight Lab
-
 ## Trust through Transparency.
 
 > **Governance-first systems for adversarial, AI-amplified environments.**

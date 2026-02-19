@@ -66,7 +66,7 @@ Anonymous disclosure is permitted.
 
 PlainSight Lab will:
 - acknowledge receipt when feasible,
-- evaluate disclosures based on severity and correction cost,
+- evaluate disclosures based on severity and correction cost, and
 - prioritize issues that affect invariants or enable exploitation.
 
 Response timelines are not guaranteed. Correctness takes precedence over speed.

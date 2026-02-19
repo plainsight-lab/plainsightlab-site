@@ -5,12 +5,10 @@ draft = false
 status = "MVP"
 +++
 
-# Authority Model
-
 Authority within PlainSight Lab is defined, bounded, and attributable.
 
 Authority does not arise from personality, reputation, expertise, or influence.  
-Authority arises only from constitutional definition and documented role.
+Authority arises only from constitutional definition and documented roles.
 
 If authority is not explicitly granted, it does not exist.
 

@@ -16,13 +16,13 @@ This page defines what must be recorded, how records are structured, and where a
 
 ## 1. What Gets Recorded
 
-Record a Decision Record when:
+A Decision Record is recorded when:
 
-- a governing document is adopted, amended, or retired
-- a steward role is created, assigned, or revoked
-- an exception is granted (and its expiry)
-- a compliance or enforcement action is taken
-- an authority boundary is clarified in a binding way
+- a governing document is adopted, amended, or retired,
+- a steward role is created, assigned, or revoked,
+- an exception is granted (and its expiry),
+- a compliance or enforcement action is taken, or
+- an authority boundary is clarified in a binding way.
 
 ---
 

@@ -49,8 +49,7 @@ This phase is only viable because Phase 1 was disciplined.
 
 ### Structural characteristics
 
-- Plurality of implementation is permitted  
-- Plurality of truth is not
+- Plurality of implementation is permitted, but plurality of truth is not.
 
 - Compatibility is separated from control  
 - Governance scope expands only after invariants are battle-tested

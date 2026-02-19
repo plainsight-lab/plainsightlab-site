@@ -37,8 +37,8 @@ PlainSight Lab exercises epistemic and governance authority, not ownership autho
 Authority exists to:
 - define canonical truth,
 - enforce invariants,
-- resolve ambiguity,
-- and bind future behavior.
+- resolve ambiguity, and
+- bind future behavior.
 
 Authority does not exist to extract value, capture users, or perpetuate control.
 
@@ -158,7 +158,7 @@ PlainSight Lab does not exist to perpetuate itself indefinitely.
 Its intended success state is one in which:
 - canonical truth is stewarded by neutral institutions,
 - governance is procedural rather than personal,
-- and legitimacy no longer depends on PlainSight Lab' continued control.
+- and legitimacy no longer depends on PlainSight Lab's continued control.
 
 Self-perpetuating authority is a failure mode.
 

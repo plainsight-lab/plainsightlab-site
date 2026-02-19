@@ -28,7 +28,6 @@ If you are looking for explanation, narrative, or advocacy, this is not that sur
 For PlainSight Lab’s social commitment and the minimum bar it sets for correctness, see the [Mission](/about/mission/).
 
 ---
-
 ## What PlainSight Lab Does
 
 PlainSight Lab operates where systems are:

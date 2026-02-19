@@ -15,8 +15,8 @@ This document defines the governance framework of PlainSight Lab.
 It specifies:
 - how authority is exercised,
 - how decisions are made and constrained,
-- how changes are proposed and evaluated,
-- and how governance evolves over time.
+- how changes are proposed and evaluated, and
+- how governance evolves over time.
 
 This framework is intentionally minimal. It establishes **how governance works**, not exhaustive procedures for every future condition.
 
@@ -24,7 +24,7 @@ This framework is intentionally minimal. It establishes **how governance works**
 
 ## Governing Authority
 
-PlainSight Lab exercises governance authority as defined by its **Internal Constitution**.
+PlainSight Lab exercises governance authority as defined by its [Internal Constitution](/docs/internal-constitution/).
 
 Authority is:
 - epistemic, not proprietary,
@@ -82,8 +82,8 @@ Changes to governance artifacts are permitted only through explicit amendment.
 Amendments must:
 - identify the artifact being modified,
 - state the motivation for change,
-- describe the impact on existing invariants,
-- and preserve backward legitimacy where possible.
+- describe the impact on existing invariants, and
+- preserve backward legitimacy where possible.
 
 Amendment thresholds are intentionally high for foundational documents.
 

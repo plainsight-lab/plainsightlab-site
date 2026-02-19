@@ -27,10 +27,10 @@ The approach is therefore:
 
 Systems are designed under the assumption that:
 
-- Incentives will be exploited
-- Ambiguity will be weaponized
-- Automation will compress reaction time
-- Institutional correction is slow
+- Incentives will be exploited,
+- Ambiguity will be weaponized,
+- Automation will compress reaction time, and
+- Institutional correction is slow.
 
 Design must account for this before deployment.
 
@@ -45,9 +45,9 @@ It is a preventative constraint.
 
 PlainSight Lab declines:
 
-- acceleration that outpaces governance
-- implementation that violates invariants
-- narratives that misrepresent authority
+- acceleration that outpaces governance,
+- implementation that violates invariants, and
+- narratives that misrepresent authority.
 
 Constraint preserves legitimacy.
 

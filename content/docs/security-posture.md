@@ -54,7 +54,7 @@ Security is enforced as early as possible in system flows.
 Systems are evaluated assuming:
 - probing will occur,
 - incentives will be exploited,
-- ambiguity will be weaponized.
+- and ambiguity will be weaponized.
 
 Good faith is not a security control.
 

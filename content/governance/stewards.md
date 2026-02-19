@@ -4,8 +4,6 @@ description = "Constitutional offices and bounded authority within PlainSight La
 draft = false
 +++
 
-# Stewards
-
 Stewardship roles within PlainSight Lab are constitutional offices.
 
 They exist to carry bounded authority in service of invariant preservation, correction discipline, and harm containment.
@@ -55,7 +53,7 @@ The Technical Steward is responsible for preserving structural correctness acros
 The Technical Steward may not:
 
 - redefine harm priorities,
-- override governance thresholds,
+- override governance thresholds, or
 - expand authority scope without formal amendment.
 
 #### Steward of Record
@@ -87,7 +85,7 @@ This office ensures that correction cost remains bounded in environments where h
 The Harm & Adversarial Systems Steward may not:
 
 - unilaterally alter invariants,
-- override amendment processes,
+- override amendment processes, or
 - redefine canonical truth.
 
 #### Steward of Record
