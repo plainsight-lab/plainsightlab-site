@@ -47,6 +47,9 @@ PlainSight Lab shall not be liable for any direct, indirect, incidental, or cons
 
 These terms are governed by applicable law in the jurisdiction in which PlainSight Lab operates.
 
+Legal notices related to these terms should be directed to:  
+**legal@plainsightlab.com**
+
 ---
 
 PlainSight Lab  

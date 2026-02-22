@@ -19,6 +19,9 @@ This site does not use:
 
 If you contact PlainSight Lab via email, the information you provide is used solely to respond to your inquiry.
 
+Requests regarding this policy or personal data may be directed to:  
+**privacy@plainsightlab.com**
+
 We do not:
 - build user profiles,
 - distribute contact information,

@@ -4,28 +4,35 @@ description = "Institutional correspondence and security disclosures."
 draft = false
 +++
 
+PlainSight Lab maintains specialized correspondence channels to ensure appropriate routing and handling of institutional data.
 
-PlainSight Lab maintains a single correspondence surface.
+## General Inquiries
 
-All inquiries, disclosures, and governance correspondence may be directed to:
-
+For general information, partnership inquiries, or media requests:  
 **info@plainsightlab.com**
 
 ---
 
 ## Security Disclosure
 
-If your message relates to a potential vulnerability, security concern, or protocol risk, clearly label the subject line:
+If your message relates to a potential vulnerability, security concern, or protocol risk, please contact:  
+**security@plainsightlab.com**
 
-> SECURITY DISCLOSURE
-
-Responsible disclosure principles are defined in the Security Posture documentation.
+Responsible disclosure principles are defined in the [Responsible Disclosure Policy](/docs/responsible-disclosure-policy/).
 
 ---
 
-## Governance Correspondence
+## Governance & Legal
 
-Governance-related inquiries, constitutional questions, or amendment proposals may be submitted to the same address.
+Governance-related inquiries, constitutional questions, or amendment proposals should be directed to:  
+**governance@plainsightlab.com**
+
+For legal notices, privacy-related requests, or data inquiries:  
+**legal@plainsightlab.com**
+
+---
+
+## Institutional Correspondence
 
 Correspondence does not imply obligation.  
 Responses are discretionary and bound by governance constraints.

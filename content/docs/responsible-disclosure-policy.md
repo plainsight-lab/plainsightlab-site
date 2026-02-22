@@ -50,7 +50,7 @@ If uncertain, disclosure is preferred.
 Disclosures should be made privately and in good faith.
 
 The recommended method is:
-- direct contact via the official contact channel listed on this site.
+- direct contact via **security@plainsightlab.com**
 
 Disclosures should include:
 - a clear description of the issue,
