@@ -14,9 +14,17 @@
       {{ if eq .Section "docs" }}
         {{ partial "components/doc-meta.html" . }}
       {{ end }}
-      <div class="prose">
-        {{ .Content }}
-      </div>
+      {{ if eq .Params.doc_type "Research Memorandum" }}
+        <div class="research-memo">
+          <div class="prose">
+            {{ .Content }}
+          </div>
+        </div>
+      {{ else }}
+        <div class="prose">
+          {{ .Content }}
+        </div>
+      {{ end }}
     </article>
     {{- if and .TableOfContents (ne .Params.toc false) }}
       <aside class="page__toc">

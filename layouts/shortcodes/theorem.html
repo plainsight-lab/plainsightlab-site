@@ -1,0 +1,7 @@
+{{- $label := .Get "label" | default "Theorem" -}}
+<div class="rm-block rm-theorem">
+  <div class="rm-label">{{ $label }}</div>
+  <div class="rm-content">
+    {{- .Inner | markdownify -}}
+  </div>
+</div>

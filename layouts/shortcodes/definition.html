@@ -1,0 +1,7 @@
+{{- $label := .Get "label" | default "Definition" -}}
+<div class="rm-block rm-definition">
+  <div class="rm-label">{{ $label }}</div>
+  <div class="rm-content">
+    {{- .Inner | markdownify -}}
+  </div>
+</div>

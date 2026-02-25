@@ -467,6 +467,50 @@
     text-decoration: none;
   }
 
+  /* Research Memorandum */
+
+  .research-memo {
+    margin-top: var(--space-lg);
+  }
+
+  .rm-block {
+    border-left: 3px solid var(--color-danger);
+    padding: var(--space-md);
+    margin: var(--space-lg) 0;
+    background: var(--color-surface-alt);
+  }
+
+  .rm-label {
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-muted);
+    margin-bottom: var(--space-xs);
+  }
+
+  .rm-content {
+    font-size: var(--text-md);
+    color: var(--color-fg);
+  }
+
+  .rm-proof {
+    border-left-color: var(--color-border);
+    background: transparent;
+  }
+
+  .rm-definition {
+    border-left-color: var(--color-border);
+  }
+
+  .rm-abstract {
+    border-left-color: var(--color-danger);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  .rm-non-goals {
+    border-left-color: var(--color-border);
+  }
+
   /* Section Related Links (generic, reusable) */
   .related {
     margin-top: var(--space-lg);

@@ -89,4 +89,18 @@
       </div>
     </div>
   </section>
+
+  {{ $memos := where .Pages "Params.doc_type" "Research Memorandum" }}
+  {{ if $memos }}
+  <section class="section page-docs">
+    <div class="stack">
+      <h2 class="docs-section-title">Research Memoranda</h2>
+      <div class="list-grid">
+        {{ range $memos }}
+          {{ partial "components/doc-card.html" (dict "title" .Title "slug" .File.ContentBaseName) }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
 {{ end }}

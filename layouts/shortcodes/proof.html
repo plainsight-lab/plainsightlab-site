@@ -1,0 +1,7 @@
+{{- $label := .Get "label" | default "Proof" -}}
+<div class="rm-block rm-proof">
+  <div class="rm-label">{{ $label }}</div>
+  <div class="rm-content">
+    {{- .Inner | markdownify -}}
+  </div>
+</div>
