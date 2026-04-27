@@ -32,6 +32,18 @@ For legal notices, privacy-related requests, or data inquiries:
 
 ---
 
+## Postal Address
+
+Plainsight Systems LLC  
+11240 N 19th Ave  
+Suite 22 PMB 1072  
+Phoenix, AZ 85029-4825  
+USA
+
+PlainSight Lab is an operating brand of Plainsight Systems LLC; postal mail to either name routes to the same private mailbox facility.
+
+---
+
 ## Institutional Correspondence
 
 Correspondence does not imply obligation.  

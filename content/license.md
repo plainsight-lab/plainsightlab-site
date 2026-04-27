@@ -37,5 +37,5 @@ If code is published, it is licensed under the MIT License unless otherwise spec
 
 ---
 
-PlainSight Lab  
+PlainSight Lab — an operating brand of **Plainsight Systems LLC**.  
 **Trust through transparency.**

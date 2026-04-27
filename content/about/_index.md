@@ -83,6 +83,14 @@ Correct systems should outlive their creators.
 
 ---
 
+## Entity
+
+PlainSight Lab is an operating brand of **Plainsight Systems LLC**, a Limited Liability Company registered in the State of Arizona, United States.
+
+The corporate identity layer — formation records, licensing doctrine, governance contacts, and parent-entity disclosures — is published at [plainsight-systems.com](https://plainsight-systems.com).
+
+---
+
 ## Orientation
 
 If you are looking for:

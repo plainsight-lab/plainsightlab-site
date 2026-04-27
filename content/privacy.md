@@ -5,7 +5,9 @@ draft = false
 +++
 
 
-PlainSight Lab operates this site as a static publication. We do not collect, sell, rent, or monetize personal data through this website.
+PlainSight Lab is an operating brand of **Plainsight Systems LLC** ("Plainsight Systems", "we", "us", or "our"), a Limited Liability Company registered in the State of Arizona, United States. We operate this site as a static publication. We do not collect, sell, rent, or monetize personal data through this website.
+
+If you are in the European Economic Area (EEA) or UK, Plainsight Systems LLC is the data controller for any personal data described in this policy.
 
 This site does not use:
 - tracking pixels,
@@ -21,6 +23,12 @@ If you contact PlainSight Lab via email, the information you provide is used sol
 
 Requests regarding this policy or personal data may be directed to:  
 **privacy@plainsightlab.com**
+
+**Postal address:**  
+Plainsight Systems LLC  
+11240 N 19th Ave, Suite 22 PMB 1072  
+Phoenix, AZ 85029-4825  
+USA
 
 We do not:
 - build user profiles,
@@ -47,5 +55,5 @@ If this policy changes, the updated effective date will be reflected here.
 
 ---
 
-PlainSight Lab  
+PlainSight Lab — an operating brand of **Plainsight Systems LLC**.  
 **Trust through transparency.**

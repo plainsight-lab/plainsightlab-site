@@ -5,6 +5,8 @@ draft = false
 +++
 
 
+PlainSight Lab is an operating brand of **Plainsight Systems LLC**, a Limited Liability Company registered in the State of Arizona, United States. References below to "PlainSight Lab" refer to operations under this brand by Plainsight Systems LLC.
+
 By accessing this website, you agree to the following terms.
 
 ---
@@ -25,13 +27,13 @@ Nothing published here constitutes:
 
 Content is provided "as is" without warranty of any kind, express or implied.
 
-PlainSight Lab makes no representations regarding completeness, accuracy, or future applicability of published materials.
+Plainsight Systems LLC, operating as PlainSight Lab, makes no representations regarding completeness, accuracy, or future applicability of published materials.
 
 ---
 
 ## Intellectual Property
 
-All original content on this site is the property of PlainSight Lab unless otherwise stated.
+All original content on this site is the property of Plainsight Systems LLC (operating as PlainSight Lab) unless otherwise stated.
 
 Use, reproduction, or distribution must comply with the License page.
 
@@ -39,18 +41,25 @@ Use, reproduction, or distribution must comply with the License page.
 
 ## Limitation of Liability
 
-PlainSight Lab shall not be liable for any direct, indirect, incidental, or consequential damages arising from use of this site.
+Plainsight Systems LLC, operating as PlainSight Lab, shall not be liable for any direct, indirect, incidental, or consequential damages arising from use of this site.
 
 ---
 
 ## Governing Law
 
-These terms are governed by applicable law in the jurisdiction in which PlainSight Lab operates.
+These terms are governed by the laws of the State of Arizona, United States, without regard to conflict-of-law principles. Actions arising from these terms shall be brought exclusively in the state or federal courts located in Maricopa County, Arizona, except where applicable consumer protection law in your jurisdiction provides otherwise.
 
 Legal notices related to these terms should be directed to:  
 **legal@plainsightlab.com**
 
 ---
 
-PlainSight Lab  
+PlainSight Lab — an operating brand of **Plainsight Systems LLC**.
+
+**Postal address:**  
+Plainsight Systems LLC  
+11240 N 19th Ave, Suite 22 PMB 1072  
+Phoenix, AZ 85029-4825  
+USA
+
 **Trust through transparency.**
